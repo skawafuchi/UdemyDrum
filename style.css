@@ -1,0 +1,56 @@
+body{
+  font-family: "Bree Serif";
+  text-align: center;
+  background-color: #bae8e8;
+}
+
+
+h1{
+  font-size: 10rem;
+  color: #272343;
+  text-shadow: 5px 0 white;
+}
+
+.button{
+  border-color: #e3f6f5;
+  font-size: 5rem;
+  border-width: 15px;
+  width:150px;
+  height:150px;
+  color: #272343;
+  border-radius:30px;
+  border-style:solid;
+  background-color: #ffffff;
+  margin:10px;
+}
+
+.pressed{
+  box-shadow: 5px 5px #d3d3d3;
+  opacity:0.5;
+}
+
+.container{
+  margin-bottom: 100px;
+}
+
+#crash{
+  background-image: url(images/crash.png);
+}
+#kick-bass{
+  background-image: url(images/kick.png);
+}
+#snare{
+  background-image: url(images/snare.png);
+}
+#tom-1{
+  background-image: url(images/tom1.png);
+}
+#tom-2{
+  background-image: url(images/tom2.png);
+}
+#tom-3{
+  background-image: url(images/tom3.png);
+}
+#tom-4{
+  background-image: url(images/tom4.png);
+}
